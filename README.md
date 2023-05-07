@@ -1,4 +1,4 @@
-# hey there
+## hey there
 
 A few years ago I discovered that my vocation is networking and programming, I enjoy a lot learning about computer science and I want to continue studying while searching for a job.
 
