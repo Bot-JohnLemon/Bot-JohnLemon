@@ -9,10 +9,15 @@ Computer Science and Information Tecnologies are a very big world that I truly w
 ### tech stack
 
  ⚡ C
+ 
  ⚡ Java
+ 
  ⚡ Python
+ 
  ⚡ Bash
+ 
  ⚡ Html/Css/Php/JavaScript 
+ 
 
 <!--
 **Bot-JohnLemon/Bot-JohnLemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
