@@ -13,11 +13,11 @@ Computer Science and Information Tecnologies are a very big world that I truly w
  ⚡ Java
  
  ⚡ Python
- 
+
  ⚡ Bash
  
  ⚡ Html/Css/Php/JavaScript 
-
+ ![psychostuff](https://user-images.githubusercontent.com/28149894/236699565-9186e8c1-4ec6-42b9-a71e-3ea1598ca5ca.jpg)
  👽 TryHackMe
  
  👽 HackTheBox
