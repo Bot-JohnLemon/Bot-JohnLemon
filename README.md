@@ -8,7 +8,7 @@ Computer Science and Information Tecnologies are a very big world that I truly w
 
 ### tech stack
  <p>
-  <img src="https://user-images.githubusercontent.com/28149894/236699565-9186e8c1-4ec6-42b9-a71e-3ea1598ca5ca.jpg" align="right" right-margin="3em">
+  <img src="https://user-images.githubusercontent.com/28149894/236699565-9186e8c1-4ec6-42b9-a71e-3ea1598ca5ca.jpg" align="right" right-margin="15em">
 </p>
 
  ⚡ C
