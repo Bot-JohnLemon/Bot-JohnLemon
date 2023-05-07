@@ -6,7 +6,13 @@ I understand that this field of studies means constant self-learning and I beliv
 Computer Science and Information Tecnologies are a very big world that I truly would like to keep on discovering :)
 
 
-### hey there
+### tech stack
+
+ ⚡ C
+ ⚡ Java
+ ⚡ Python
+ ⚡ Bash
+ ⚡ Html/Css/Php/JavaScript 
 
 <!--
 **Bot-JohnLemon/Bot-JohnLemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
