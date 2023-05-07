@@ -20,6 +20,8 @@ Computer Science and Information Tecnologies are a very big world that I truly w
  ⚡ Bash
  
  ⚡ Html/Css/Php/JavaScript
+ 
+ 👽 OracleMySQL
 
  👽 TryHackMe
  
