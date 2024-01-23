@@ -32,10 +32,10 @@ Bot-JohnLemon
         <tr>
             <td align="center">OSINT</td>
             <td align="center">
-             <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/eaa3df76-532d-42a8-8d01-527f83e45de0" width="40" height="40" style="max-width: 100%;">
-             <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/12e2954a-d01c-49c6-a5e4-dd1ea7139228" width="40" height="40" style="max-width: 100%;">
-             <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/dbc68856-1a83-465e-976c-ee166bd823aa" width="40" height="40" style="max-width: 100%;">
-             <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/91a63d12-4737-4d02-8ae0-8b8a47f33686" width="40" height="40" style="max-width: 100%;">
+             <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/eaa3df76-532d-42a8-8d01-527f83e45de0" width="50" height="50">
+             <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/12e2954a-d01c-49c6-a5e4-dd1ea7139228" width="50" height="50">
+             <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/dbc68856-1a83-465e-976c-ee166bd823aa" width="50" height="50">
+             <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/91a63d12-4737-4d02-8ae0-8b8a47f33686" width="50" height="50">
             </td>
         </tr>
         <tr>
