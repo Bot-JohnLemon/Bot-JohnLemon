@@ -33,7 +33,7 @@ Bot-JohnLemon
             <td align="center">OSINT</td>
             <td align="center">
              <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/eaa3df76-532d-42a8-8d01-527f83e45de0" width="100" height="50">
-             <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/12e2954a-d01c-49c6-a5e4-dd1ea7139228" width="50" height="50">
+             <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/12e2954a-d01c-49c6-a5e4-dd1ea7139228" width="80" height="50">
              <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/dbc68856-1a83-465e-976c-ee166bd823aa" width="50" height="50">
              <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/91a63d12-4737-4d02-8ae0-8b8a47f33686" width="50" height="50">
             </td>
@@ -52,9 +52,9 @@ Bot-JohnLemon
             <td align="center">
              <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/1ad0b16c-7611-4498-83bf-cc67e1bfa643" width="40" height="40" style="max-width: 100%;">
              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" style="max-width: 100%;">
-             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;">
-             <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/6d14eaba-96fe-4961-867b-6f85f8a5acac" width="40" height="40" style="max-width: 100%;">
              <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/50ea0963-51e8-4fe8-b67b-7eac5b8b4c47" width="40" height="40" style="max-width: 100%;">
+             <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/6d14eaba-96fe-4961-867b-6f85f8a5acac" width="40" height="40" style="max-width: 100%;">
+             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;">
              <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/471f5112-63ba-4aad-a6dd-0bbc5f8c1297" width="40" height="40" style="max-width: 100%;">
             </td>
         </tr>
@@ -80,24 +80,6 @@ Bot-JohnLemon
         </tr>
     </tbody>
 </table>
-
- ⚡ C
- 
- ⚡ Java
- 
- ⚡ Python
-
- ⚡ Bash
- 
- ⚡ Html/Css/Php/JavaScript
- 
- 👽 OracleMySQL
-
- 👽 TryHackMe
- 
- 👽 HackTheBox
- 
- 👽 VulnHub
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bot-JohnLemon&layout=compact&langs_count=8&hide=scss,css&theme=dracula&card_width=500px&border_color=282A36&border_radius=0)
 
