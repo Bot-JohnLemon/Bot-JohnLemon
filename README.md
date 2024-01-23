@@ -20,13 +20,13 @@ Bot-JohnLemon
         <tr>
             <td align="center">Pentesting</td>
             <td align="center">
-             <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/b27fba7b-790e-4488-9de1-57121b93af25" width="50" height="50" style="max-width: 100%;">
-             <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/b12df16e-2848-4942-b5fa-c8e4dce01cb5" width="50" height="50" style="max-width: 100%;">
-             <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/edc3fb31-53ed-493a-ad05-6ec13bba89ee" width="50" height="50" style="max-width: 100%;">
-             <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/6308f74d-f8f8-4638-a0dc-fd8bbff248b6" width="50" height="50" style="max-width: 100%;">
-             <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/aea1cabf-1669-4bc3-ac90-65167aa3fb0b" width="50" height="50" style="max-width: 100%;">
-             <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/cd1f772a-445e-43b5-840c-a13385c30072" width="50" height="50" style="max-width: 100%;">
-             <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/9822bc20-98cd-4b22-9d23-5b8aa2a43a4a" width="50" height="50" style="max-width: 100%;">
+             <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/b27fba7b-790e-4488-9de1-57121b93af25" width="50" height="50">
+             <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/b12df16e-2848-4942-b5fa-c8e4dce01cb5" width="50" height="50">
+             <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/edc3fb31-53ed-493a-ad05-6ec13bba89ee" width="50" height="50">
+             <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/6308f74d-f8f8-4638-a0dc-fd8bbff248b6" width="50" height="50">
+             <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/aea1cabf-1669-4bc3-ac90-65167aa3fb0b" width="50" height="50">
+             <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/cd1f772a-445e-43b5-840c-a13385c30072" width="50" height="50">
+             <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/9822bc20-98cd-4b22-9d23-5b8aa2a43a4a" width="50" height="50">
             </td>
         </tr>
         <tr>
