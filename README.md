@@ -14,14 +14,13 @@ Bot-JohnLemon
 
 ## tech stack
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bot-JohnLemon&layout=compact&langs_count=8&hide=scss,css&theme=dracula&card_width=500px&border_color=282A36&border_radius=0)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bot-JohnLemon&layout=compact&langs_count=8&hide=scss,css&theme=dracula&card_width=460px&border_color=282A36&border_radius=0)
 
 <table>
     <tbody>
         <tr>
             <td align="center">Pentesting</td>
             <td align="center">
-             <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/b27fba7b-790e-4488-9de1-57121b93af25" width="50" height="50">
              <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/b12df16e-2848-4942-b5fa-c8e4dce01cb5" width="50" height="50">
              <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/edc3fb31-53ed-493a-ad05-6ec13bba89ee" width="50" height="50">
              <img src="https://github.com/Bot-JohnLemon/Bot-JohnLemon/assets/28149894/6308f74d-f8f8-4638-a0dc-fd8bbff248b6" width="50" height="50">
